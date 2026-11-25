@@ -180,4 +180,4 @@ for i in li:
 print("Even number in the list:",even)
 print("Odd number in the list:",odd)
 
-  
+  Patil 
